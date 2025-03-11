@@ -22,5 +22,5 @@ def main():
         else:
             show_message("Неверный выбор, попробуй снова")
 
-if name == "main":
-    main()
+#if name == "main":
+#    main()
